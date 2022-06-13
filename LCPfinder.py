@@ -45,10 +45,5 @@ print(find_the_longest_common_prefix_amongst_all(["apple", "app", "aple", "appl"
 
 #empty_string = ""
 
-#print(find_the_longest_common_prefix_amongst_all(empty_string))
-
-
-
-
-		
+#print(find_the_longest_common_prefix_amongst_all(empty_string))	
 		
